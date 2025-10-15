@@ -2250,18 +2250,3 @@ Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) par
 - [Zustand](https://github.com/pmndrs/zustand) pelo state management simples
 - [Tailwind CSS](https://tailwindcss.com/) pela estilização eficiente
 
----
-
-<div align="center">
-
-### ⭐ Se este projeto foi útil, considere dar uma estrela!
-
-**Feito com ❤️ e ☕ por desenvolvedores que amam automatizar pesquisas**
-
-[🐛 Reportar Bug](../../issues) · [💡 Sugerir Feature](../../issues) · [📖 Documentação](../../wiki)
-
----
-
-### 🔬 **19 Features Implementadas** | 🤖 **4 Modelos de IA** | 🗺️ **4 APIs do Google Maps**
-
-</div>
