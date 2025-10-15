@@ -1,0 +1,126 @@
+# ==========================================
+# 🔐 ARQUIVOS SENSÍVEIS (API KEYS)
+# ==========================================
+.env
+.env.*
+.env.local
+.env.production
+.env.development
+*.env
+backend/.env
+frontend/.env
+frontend/.env.local
+
+# ==========================================
+# 🐍 Python
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+
+# ==========================================
+# 📦 Node.js / Next.js
+# ==========================================
+node_modules/
+.next/
+out/
+.cache/
+.turbo/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# ==========================================
+# 🖥️ IDEs e Editores
+# ==========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+.cursor/
+
+# ==========================================
+# 🔧 Outros
+# ==========================================
+*.log
+*.pid
+*.seed
+*.pid.lock
+.cache
+coverage/
+.nyc_output/
+.grunt
+bower_components
+.lock-wscript
+build/Release
+jspm_packages/
+typings/
+.npm
+.eslintcache
+.node_repl_history
+*.tgz
+.yarn-integrity
+
+# ==========================================
+# 🗂️ Temporários e Backups
+# ==========================================
+*.bak
+*.tmp
+*.temp
+*~
+.#*
+\#*#
+.*.swp
+
+# ==========================================
+# 📸 Screenshots (opcional - remova se quiser versioná-los)
+# ==========================================
+# docs/screenshots/*.png
+
+# ==========================================
+# 🔑 Certificados e Chaves
+# ==========================================
+*.pem
+*.key
+*.cert
+*.crt
+credentials.json
+service-account.json
